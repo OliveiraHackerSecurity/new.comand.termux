@@ -31,6 +31,9 @@ Com o arquivo criado vamos copiar para o local que precisa está
 Entre na pasta e procure o arquivo para ter certeza que está lá
 >cd /data/data/com.termux/files/use/bin
 
+Agora de permissão ao arquivo para uso
+>chmod +x  atualizar
+
 Após isso você já pode ultilizar o novo comando criado
 >atualizar
 
